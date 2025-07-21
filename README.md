@@ -66,6 +66,7 @@ Before you begin, ensure you have the following installed on your system:
 
 5. Install dependencies: `bun install`
 6. Start the development server: `bun dev`
+Do not use `npm`, as this project is configured to use `bun`.
 
 ## Development Setup
 
